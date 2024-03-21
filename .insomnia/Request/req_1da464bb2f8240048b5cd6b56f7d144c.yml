@@ -1,0 +1,24 @@
+_id: req_1da464bb2f8240048b5cd6b56f7d144c
+type: Request
+parentId: wrk_a4abedea012343b784caa8200f27d194
+modified: 1711035692425
+created: 1711035686098
+url: https://www.bbc.com
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/8.6.1
+authentication: {}
+metaSortKey: -1711035686098
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
